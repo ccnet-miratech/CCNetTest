@@ -1,0 +1,15 @@
+c:\users\jmahan\documents\visual studio 2010\Projects\CCNetTest\CCNetTest\bin\Debug\CCNetTest.exe
+c:\users\jmahan\documents\visual studio 2010\Projects\CCNetTest\CCNetTest\bin\Debug\CCNetTest.pdb
+c:\users\jmahan\documents\visual studio 2010\Projects\CCNetTest\CCNetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jmahan\documents\visual studio 2010\Projects\CCNetTest\CCNetTest\obj\x86\Debug\CCNetTest.exe
+c:\users\jmahan\documents\visual studio 2010\Projects\CCNetTest\CCNetTest\obj\x86\Debug\CCNetTest.pdb
+D:\Projects\CCNetTest\CCNetTest\bin\Debug\CCNetTest.exe
+D:\Projects\CCNetTest\CCNetTest\bin\Debug\CCNetTest.pdb
+D:\Projects\CCNetTest\CCNetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\CCNetTest\CCNetTest\obj\x86\Debug\CCNetTest.exe
+D:\Projects\CCNetTest\CCNetTest\obj\x86\Debug\CCNetTest.pdb
+D:\Projects\CCNetTest\Projects\AdditionCalculator\CCNetTest\bin\Debug\CCNetTest.exe
+D:\Projects\CCNetTest\Projects\AdditionCalculator\CCNetTest\bin\Debug\CCNetTest.pdb
+D:\Projects\CCNetTest\Projects\AdditionCalculator\CCNetTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\CCNetTest\Projects\AdditionCalculator\CCNetTest\obj\x86\Debug\CCNetTest.exe
+D:\Projects\CCNetTest\Projects\AdditionCalculator\CCNetTest\obj\x86\Debug\CCNetTest.pdb
