@@ -25,4 +25,3 @@ StyleCop.Cache
 *.sass-cache*
 *.orig
 Projects/*/RemoteAssemblies/*
-*.build
