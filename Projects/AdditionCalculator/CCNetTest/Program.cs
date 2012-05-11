@@ -10,7 +10,8 @@ namespace CCNetTest
 
         public static decimal AddTwoNumbers(decimal firstNumber, decimal secondNumber)
         {
-            return (firstNumber + secondNumber);
+            Console.WriteLine("Adding two numbers...");
+			return (firstNumber + secondNumber);
         }
 
         public static void GetNumbers()
